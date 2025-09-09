@@ -1,4 +1,4 @@
 # 19.-YouTube-Chatbot
 
 
-![screenshot](pipeline_img.png)
+![screenshot](pipeline_img.jpg)
