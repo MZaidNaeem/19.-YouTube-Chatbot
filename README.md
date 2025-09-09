@@ -4,8 +4,8 @@
 ![screenshot](pipeline_img.jpg)
 
 
-🧠 Project Overview
-✨ Today, I built a YouTube Chatbot powered by a complete Retrieval-Augmented Generation (RAG) pipeline. Instead of scrolling through timestamps or replaying videos to find what you need, now you can simply enter the YouTube video URL and start chatting with that specific video — asking it questions and getting precise, context-aware answers.
+🧠 Project Overview: 
+Today, I built a YouTube Chatbot powered by a complete Retrieval-Augmented Generation (RAG) pipeline. Instead of scrolling through timestamps or replaying videos to find what you need, now you can simply enter the YouTube video URL and start chatting with that specific video — asking it questions and getting precise, context-aware answers.
 
 This project makes video content interactive and intelligent, letting you unlock knowledge without wasting time.
 
